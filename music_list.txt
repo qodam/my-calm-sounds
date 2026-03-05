@@ -1,0 +1,459 @@
+Dossier: sounds
+Nom: alarm.mp3
+Taille: 130.61 KB
+Durée: 4.18 sec
+---------------------
+Dossier: sounds
+Nom: silence.wav
+Taille: 861.37 KB
+Durée: 10.00 sec
+---------------------
+Dossier: sounds\animals
+Nom: beehive.mp3
+Taille: 955.88 KB
+Durée: 45.15 sec
+---------------------
+Dossier: sounds\animals
+Nom: birds.mp3
+Taille: 2011.27 KB
+Durée: 115.12 sec
+---------------------
+Dossier: sounds\animals
+Nom: cat-purring.mp3
+Taille: 439.83 KB
+Durée: 38.66 sec
+---------------------
+Dossier: sounds\animals
+Nom: chickens.mp3
+Taille: 4899.66 KB
+Durée: 202.08 sec
+---------------------
+Dossier: sounds\animals
+Nom: cows.mp3
+Taille: 544.85 KB
+Durée: 59.70 sec
+---------------------
+Dossier: sounds\animals
+Nom: crickets.mp3
+Taille: 2774.55 KB
+Durée: 172.54 sec
+---------------------
+Dossier: sounds\animals
+Nom: crows.mp3
+Taille: 757.59 KB
+Durée: 58.08 sec
+---------------------
+Dossier: sounds\animals
+Nom: dog-barking.mp3
+Taille: 221.18 KB
+Durée: 16.18 sec
+---------------------
+Dossier: sounds\animals
+Nom: frog.mp3
+Taille: 1536.09 KB
+Durée: 78.65 sec
+---------------------
+Dossier: sounds\animals
+Nom: horse-gallop.mp3
+Taille: 165.98 KB
+Durée: 9.14 sec
+---------------------
+Dossier: sounds\animals
+Nom: owl.mp3
+Taille: 95.03 KB
+Durée: 12.94 sec
+---------------------
+Dossier: sounds\animals
+Nom: seagulls.mp3
+Taille: 507.71 KB
+Durée: 43.47 sec
+---------------------
+Dossier: sounds\animals
+Nom: sheep.mp3
+Taille: 699.84 KB
+Durée: 31.19 sec
+---------------------
+Dossier: sounds\animals
+Nom: whale.mp3
+Taille: 352.10 KB
+Durée: 30.01 sec
+---------------------
+Dossier: sounds\animals
+Nom: wolf.mp3
+Taille: 573.97 KB
+Durée: 55.37 sec
+---------------------
+Dossier: sounds\animals
+Nom: woodpecker.mp3
+Taille: 163.85 KB
+Durée: 15.32 sec
+---------------------
+Dossier: sounds\binaural
+Nom: binaural-alpha.wav
+Taille: 2584.03 KB
+Durée: 15.00 sec
+---------------------
+Dossier: sounds\binaural
+Nom: binaural-beta.wav
+Taille: 2584.03 KB
+Durée: 15.00 sec
+---------------------
+Dossier: sounds\binaural
+Nom: binaural-delta.wav
+Taille: 2584.03 KB
+Durée: 15.00 sec
+---------------------
+Dossier: sounds\binaural
+Nom: binaural-gamma.wav
+Taille: 2584.03 KB
+Durée: 15.00 sec
+---------------------
+Dossier: sounds\binaural
+Nom: binaural-theta.wav
+Taille: 2584.03 KB
+Durée: 15.00 sec
+---------------------
+Dossier: sounds\nature
+Nom: campfire.mp3
+Taille: 3169.55 KB
+Durée: 125.41 sec
+---------------------
+Dossier: sounds\nature
+Nom: droplets.mp3
+Taille: 779.46 KB
+Durée: 51.75 sec
+---------------------
+Dossier: sounds\nature
+Nom: howling-wind.mp3
+Taille: 510.59 KB
+Durée: 55.94 sec
+---------------------
+Dossier: sounds\nature
+Nom: jungle.mp3
+Taille: 3981.49 KB
+Durée: 266.70 sec
+---------------------
+Dossier: sounds\nature
+Nom: river.mp3
+Taille: 3803.92 KB
+Durée: 113.43 sec
+---------------------
+Dossier: sounds\nature
+Nom: walk-in-snow.mp3
+Taille: 903.56 KB
+Durée: 36.67 sec
+---------------------
+Dossier: sounds\nature
+Nom: walk-on-gravel.mp3
+Taille: 1121.65 KB
+Durée: 70.83 sec
+---------------------
+Dossier: sounds\nature
+Nom: walk-on-leaves.mp3
+Taille: 303.35 KB
+Durée: 20.57 sec
+---------------------
+Dossier: sounds\nature
+Nom: waterfall.mp3
+Taille: 538.97 KB
+Durée: 23.49 sec
+---------------------
+Dossier: sounds\nature
+Nom: waves.mp3
+Taille: 2292.67 KB
+Durée: 98.66 sec
+---------------------
+Dossier: sounds\nature
+Nom: wind-in-trees.mp3
+Taille: 1264.60 KB
+Durée: 57.56 sec
+---------------------
+Dossier: sounds\nature
+Nom: wind.mp3
+Taille: 1569.16 KB
+Durée: 73.42 sec
+---------------------
+Dossier: sounds\noise
+Nom: brown-noise.wav
+Taille: 891.70 KB
+Durée: 9.51 sec
+---------------------
+Dossier: sounds\noise
+Nom: pink-noise.wav
+Taille: 1637.67 KB
+Durée: 9.51 sec
+---------------------
+Dossier: sounds\noise
+Nom: white-noise.wav
+Taille: 1636.95 KB
+Durée: 9.50 sec
+---------------------
+Dossier: sounds\places
+Nom: airport.mp3
+Taille: 4395.94 KB
+Durée: 311.61 sec
+---------------------
+Dossier: sounds\places
+Nom: cafe.mp3
+Taille: 1735.08 KB
+Durée: 199.09 sec
+---------------------
+Dossier: sounds\places
+Nom: carousel.mp3
+Taille: 2271.82 KB
+Durée: 160.76 sec
+---------------------
+Dossier: sounds\places
+Nom: church.mp3
+Taille: 754.12 KB
+Durée: 70.48 sec
+---------------------
+Dossier: sounds\places
+Nom: construction-site.mp3
+Taille: 1534.38 KB
+Durée: 125.05 sec
+---------------------
+Dossier: sounds\places
+Nom: crowded-bar.mp3
+Taille: 835.15 KB
+Durée: 58.73 sec
+---------------------
+Dossier: sounds\places
+Nom: laboratory.mp3
+Taille: 375.38 KB
+Durée: 21.23 sec
+---------------------
+Dossier: sounds\places
+Nom: laundry-room.mp3
+Taille: 719.91 KB
+Durée: 32.48 sec
+---------------------
+Dossier: sounds\places
+Nom: library.mp3
+Taille: 3735.80 KB
+Durée: 176.53 sec
+---------------------
+Dossier: sounds\places
+Nom: night-village.mp3
+Taille: 2228.83 KB
+Durée: 106.42 sec
+---------------------
+Dossier: sounds\places
+Nom: office.mp3
+Taille: 1919.34 KB
+Durée: 139.73 sec
+---------------------
+Dossier: sounds\places
+Nom: restaurant.mp3
+Taille: 3469.47 KB
+Durée: 170.89 sec
+---------------------
+Dossier: sounds\places
+Nom: subway-station.mp3
+Taille: 2190.54 KB
+Durée: 171.03 sec
+---------------------
+Dossier: sounds\places
+Nom: supermarket.mp3
+Taille: 2261.20 KB
+Durée: 175.09 sec
+---------------------
+Dossier: sounds\places
+Nom: temple.mp3
+Taille: 1521.54 KB
+Durée: 91.62 sec
+---------------------
+Dossier: sounds\places
+Nom: underwater.mp3
+Taille: 513.68 KB
+Durée: 43.25 sec
+---------------------
+Dossier: sounds\rain
+Nom: heavy-rain.mp3
+Taille: 529.04 KB
+Durée: 21.79 sec
+---------------------
+Dossier: sounds\rain
+Nom: light-rain.mp3
+Taille: 3686.61 KB
+Durée: 149.87 sec
+---------------------
+Dossier: sounds\rain
+Nom: rain-on-car-roof.mp3
+Taille: 239.26 KB
+Durée: 10.02 sec
+---------------------
+Dossier: sounds\rain
+Nom: rain-on-leaves.mp3
+Taille: 680.74 KB
+Durée: 42.22 sec
+---------------------
+Dossier: sounds\rain
+Nom: rain-on-tent.mp3
+Taille: 1459.05 KB
+Durée: 82.57 sec
+---------------------
+Dossier: sounds\rain
+Nom: rain-on-umbrella.mp3
+Taille: 1015.74 KB
+Durée: 26.55 sec
+---------------------
+Dossier: sounds\rain
+Nom: rain-on-window.mp3
+Taille: 818.50 KB
+Durée: 33.14 sec
+---------------------
+Dossier: sounds\rain
+Nom: thunder.mp3
+Taille: 2142.04 KB
+Durée: 68.55 sec
+---------------------
+Dossier: sounds\things
+Nom: boiling-water.mp3
+Taille: 514.26 KB
+Durée: 18.50 sec
+---------------------
+Dossier: sounds\things
+Nom: bubbles.mp3
+Taille: 100.50 KB
+Durée: 6.39 sec
+---------------------
+Dossier: sounds\things
+Nom: ceiling-fan.mp3
+Taille: 175.07 KB
+Durée: 15.59 sec
+---------------------
+Dossier: sounds\things
+Nom: clock.mp3
+Taille: 88.55 KB
+Durée: 15.94 sec
+---------------------
+Dossier: sounds\things
+Nom: dryer.mp3
+Taille: 133.49 KB
+Durée: 28.03 sec
+---------------------
+Dossier: sounds\things
+Nom: keyboard.mp3
+Taille: 379.59 KB
+Durée: 12.15 sec
+---------------------
+Dossier: sounds\things
+Nom: morse-code.mp3
+Taille: 222.96 KB
+Durée: 75.39 sec
+---------------------
+Dossier: sounds\things
+Nom: paper.mp3
+Taille: 152.81 KB
+Durée: 17.21 sec
+---------------------
+Dossier: sounds\things
+Nom: singing-bowl.mp3
+Taille: 421.69 KB
+Durée: 49.08 sec
+---------------------
+Dossier: sounds\things
+Nom: slide-projector.mp3
+Taille: 1844.13 KB
+Durée: 142.88 sec
+---------------------
+Dossier: sounds\things
+Nom: tuning-radio.mp3
+Taille: 751.51 KB
+Durée: 70.23 sec
+---------------------
+Dossier: sounds\things
+Nom: typewriter.mp3
+Taille: 333.16 KB
+Durée: 21.78 sec
+---------------------
+Dossier: sounds\things
+Nom: vinyl-effect.mp3
+Taille: 1520.21 KB
+Durée: 65.90 sec
+---------------------
+Dossier: sounds\things
+Nom: washing-machine.mp3
+Taille: 187.27 KB
+Durée: 22.53 sec
+---------------------
+Dossier: sounds\things
+Nom: wind-chimes.mp3
+Taille: 2202.33 KB
+Durée: 83.01 sec
+---------------------
+Dossier: sounds\things
+Nom: windshield-wipers.mp3
+Taille: 202.66 KB
+Durée: 15.12 sec
+---------------------
+Dossier: sounds\transport
+Nom: airplane.mp3
+Taille: 820.57 KB
+Durée: 60.03 sec
+---------------------
+Dossier: sounds\transport
+Nom: inside-a-train.mp3
+Taille: 1408.12 KB
+Durée: 66.50 sec
+---------------------
+Dossier: sounds\transport
+Nom: rowing-boat.mp3
+Taille: 583.08 KB
+Durée: 25.53 sec
+---------------------
+Dossier: sounds\transport
+Nom: sailboat.mp3
+Taille: 2135.23 KB
+Durée: 160.52 sec
+---------------------
+Dossier: sounds\transport
+Nom: submarine.mp3
+Taille: 680.09 KB
+Durée: 46.03 sec
+---------------------
+Dossier: sounds\transport
+Nom: train.mp3
+Taille: 1247.11 KB
+Durée: 61.06 sec
+---------------------
+Dossier: sounds\urban
+Nom: ambulance-siren.mp3
+Taille: 329.32 KB
+Durée: 22.59 sec
+---------------------
+Dossier: sounds\urban
+Nom: busy-street.mp3
+Taille: 2274.16 KB
+Durée: 175.36 sec
+---------------------
+Dossier: sounds\urban
+Nom: crowd.mp3
+Taille: 595.90 KB
+Durée: 72.56 sec
+---------------------
+Dossier: sounds\urban
+Nom: fireworks.mp3
+Taille: 567.77 KB
+Durée: 34.49 sec
+---------------------
+Dossier: sounds\urban
+Nom: highway.mp3
+Taille: 1632.38 KB
+Durée: 132.50 sec
+---------------------
+Dossier: sounds\urban
+Nom: road.mp3
+Taille: 1512.19 KB
+Durée: 102.35 sec
+---------------------
+Dossier: sounds\urban
+Nom: traffic.mp3
+Taille: 441.72 KB
+Durée: 39.89 sec
+---------------------
+
+=====================
+TOTAL: 116.71 MB
+=====================
